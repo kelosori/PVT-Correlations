@@ -1,6 +1,6 @@
 #%% Import libraries and functions
 import xlwings as xw
-import numpy as np
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from PVT-Correlations.Model.Funciones import Bo
